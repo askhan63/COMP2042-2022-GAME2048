@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"com.example.game2048","l":"com.example.game2048"}];updateSearchResults();
